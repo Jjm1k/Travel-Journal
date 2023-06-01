@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.382644b8.css",
-    "main.js": "/react-gh-pages/static/js/main.1dd80e3f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "static/media/jamaal-cooks-sp4dq3f825M-unsplash.jpg": "/react-gh-pages/static/media/jamaal-cooks-sp4dq3f825M-unsplash.2ee966e15aedfb238ccf.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.382644b8.css.map": "/react-gh-pages/static/css/main.382644b8.css.map",
-    "main.1dd80e3f.js.map": "/react-gh-pages/static/js/main.1dd80e3f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Travel-Journal/static/css/main.7972661e.css",
+    "main.js": "/Travel-Journal/static/js/main.7988fbe0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Travel-Journal/static/js/787.28cb0dcd.chunk.js",
+    "static/media/jamaal-cooks-sp4dq3f825M-unsplash.jpg": "/Travel-Journal/static/media/jamaal-cooks-sp4dq3f825M-unsplash.2ee966e15aedfb238ccf.jpg",
+    "index.html": "/Travel-Journal/index.html",
+    "main.7972661e.css.map": "/Travel-Journal/static/css/main.7972661e.css.map",
+    "main.7988fbe0.js.map": "/Travel-Journal/static/js/main.7988fbe0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Travel-Journal/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.382644b8.css",
-    "static/js/main.1dd80e3f.js"
+    "static/css/main.7972661e.css",
+    "static/js/main.7988fbe0.js"
   ]
 }
