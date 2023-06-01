@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.382644b8.css",
+    "main.js": "/react-gh-pages/static/js/main.1dd80e3f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
+    "static/media/jamaal-cooks-sp4dq3f825M-unsplash.jpg": "/react-gh-pages/static/media/jamaal-cooks-sp4dq3f825M-unsplash.2ee966e15aedfb238ccf.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.382644b8.css.map": "/react-gh-pages/static/css/main.382644b8.css.map",
+    "main.1dd80e3f.js.map": "/react-gh-pages/static/js/main.1dd80e3f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382644b8.css",
+    "static/js/main.1dd80e3f.js"
+  ]
+}
